@@ -1,0 +1,3 @@
+[submodule "pcd2pgm"]
+	path = pcd2pgm
+	url = https://github.com/XjuHurricaneQuadVision/pcd2pgm.git
